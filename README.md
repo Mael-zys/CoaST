@@ -1,6 +1,6 @@
 # Cooperative Self-Training for Multi-Target Adaptive Semantic Segmentation
 
-## [[Paper]](https://arxiv.org/abs/2210.01578)
+## [[Paper]](https://arxiv.org/abs/2210.01578) [[Supp Mat.]](https://drive.google.com/file/d/1xkyVTvnjGj8jys37SU-zv625BTgCz-Fj/view?usp=sharing)
 
 ## Abstract
 
