@@ -1,8 +1,12 @@
 # Cooperative Self-Training for Multi-Target Adaptive Semantic Segmentation
 
+## [[Paper]](https://arxiv.org/abs/2210.01578)
+
 ## Abstract
 
 In this work we address multi-target domain adaptation (MTDA) in semantic segmentation, which consists in adapting a single model from an annotated source dataset to multiple unannotated target datasets that differ in their underlying data distributions. To address MTDA, we propose a self-training strategy that employs pseudo-labels to induce cooperation among multiple domain-specific classifiers. We employ feature stylization as an efficient way to generate image views that forms an integral part of self-training. Additionally, to prevent the network from overfitting to noisy pseudo-labels, we devise a rectification strategy that leverages the predictions from different classifiers to estimate the quality of pseudo-labels. Our extensive experiments on numerous settings, based on four different semantic segmentation datasets, validates the effectiveness of the proposed self-training strategy and shows that our method outperforms state-of-the-art MTDA approaches.
+
+![1664807094912](image/README/1664807094912.png)
 
 ## Preparation
 
