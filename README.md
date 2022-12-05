@@ -12,12 +12,11 @@ In this work we address multi-target domain adaptation (MTDA) in semantic segmen
 
 ### Installation
 
-You may change the cudatoolkit version to yours.
 
 ```bash
 conda create -n coast python=3.7
 conda activate coast
-conda install pytorch torchvision torchaudio cudatoolkit -c pytorch
+conda install pytorch==1.4.0 torchvision==0.5.0 cudatoolkit=10.1 -c pytorch
 pip install pyyaml==5.4.1 easydict
 conda install tqdm scipy
 ```
