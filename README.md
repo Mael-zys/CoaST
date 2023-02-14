@@ -73,7 +73,7 @@ By default, the datasets are put in ``<root_dir>/Dataset``. We use symlinks to h
 
 ## Pre-trained models
 
-Due to my google drive limits, I can only upload the [checkpoints](https://drive.google.com/drive/u/0/folders/193DynhYYHxMCX7iAOY1Z5DU4b_4T4AHA) for G2CI 7-classes and 19-classes settings.
+Due to my google drive limits, I can only upload the [checkpoints](https://drive.google.com/drive/folders/193DynhYYHxMCX7iAOY1Z5DU4b_4T4AHA?usp=sharing) for G2CM 7-classes and 19-classes settings.
 
 ## Evaluation
 
